@@ -23,3 +23,7 @@ The repo contains 4 modules:
 3) disease_detection.ipynb - this notebook has the code for disease detection
 
 4) soil_detection.ipynb - this notebook has the code for soil detection
+
+Facing issue uploading my dataset. so im uploading it to the one drive link(https://cometmail-my.sharepoint.com/:f:/g/personal/fxs230037_utdallas_edu/ErddBBboto1CvFRihuLwWtoBY4Dy8qKRt3hx4wNbe8_ykg?e=VqbOlR).
+
+Just unzip and upload to the /ML-Project file and can run the code.
