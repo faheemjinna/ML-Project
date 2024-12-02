@@ -14,24 +14,12 @@ Our features of this application includes five steps to help farmers make use of
 - Disease Detection
 - Farm Community Forum
 
-The repo contains 3 folders:
+The repo contains 4 modules:
 
 1) agrosei_app_code - this folder contains the project files of the android application
 
-1) selenium - this folder contains the project files of the android application
+2) crop_recommendation.ipynb - this notebook has the code for crop recommendation
 
-1) agrosei_app_code - this folder contains the project files of the android application
+3) disease_detection.ipynb - this notebook has the code for disease detection
 
-1) agrosei_app_code - this folder contains the project files of the android application
-
- 1)Selenium-python for whatsapp automation
-  
- 2)AR_app/sceneform for Augumented Reality
-  
- 3)agro_markcus is the folder containing the project files for Wholesale distributors and consumers, App.
-  
-  
-*DONT FORGET TO VISIT THE GOOGLE DRIVE AND THE VIDEO*
-
-_https://www.youtube.com/watch?v=C33SoyGxlDc&feature=emb_title_
-_https://drive.google.com/file/d/1ZINveQvdpuAo7UVx5YAQZlXrlTRUQL8q/view?usp=drivesdk_
+4) soil_detection.ipynb - this notebook has the code for soil detection
